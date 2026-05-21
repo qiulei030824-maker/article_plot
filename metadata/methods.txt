@@ -1,9 +1,0 @@
-## Methods: Phylogenetic Analysis of PF00168
-
-Protein sequences containing PF00168 domains were retrieved from 33 species
-using HMMER3. For phylogenetic reconstruction, 33 representative sequences were selected.
-Multiple sequence alignment was performed using MAFFT (auto).
-The alignment spanned 2596 positions (trimmed to 902 positions using
-ClipKIT). A total of 902 parsimony-informative sites were retained.
-Maximum likelihood phylogeny was inferred using IQ-TREE2 under the LG+G4 model
-with 100 ultrafast bootstrap replicates.
