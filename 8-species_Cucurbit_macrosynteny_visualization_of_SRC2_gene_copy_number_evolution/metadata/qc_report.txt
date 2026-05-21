@@ -1,0 +1,7 @@
+=== QC Report: PF00168 Phylogenetic Analysis ===
+Total sequences before CD-HIT: 4621
+Total sequences after CD-HIT (90%): 33
+Average sequence length: 550.2 aa
+Alignment length (MAFFT): 2596
+Trimmed alignment (ClipKIT): 902 PI sites
+IQ-TREE2 runtime: 10115 seconds

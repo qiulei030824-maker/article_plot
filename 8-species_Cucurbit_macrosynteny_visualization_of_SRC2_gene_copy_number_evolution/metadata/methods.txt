@@ -1,0 +1,6 @@
+PF00168 HMMER3 domain search -> 4621 hits
+CD-HIT 90% clustering -> 33 representative seqs
+MAFFT auto alignment (2596 positions)
+ClipKIT kpi-smart-gap trimming (902 PI sites)
+IQ-TREE2 LG+G4 100 UFBoot phylogeny
+JCVI LAST synteny (cscore 0.99, minspan 30)

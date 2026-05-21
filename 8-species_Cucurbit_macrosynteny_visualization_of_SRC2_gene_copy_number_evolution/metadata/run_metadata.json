@@ -1,0 +1,18 @@
+{
+  "project": "SRC2 (PF00168) synteny analysis",
+  "species": ["ChineseLong", "DHL92", "97103", "USVL1VR-Ls", "Cpepo", "Cargyrosperma", "Cmaxima_Rimu", "Cmoschata_Rifu"],
+  "total_species": 33,
+  "pfam_id": "PF00168",
+  "hmmer_evalue": "1e-5",
+  "cdhit_identity": 0.90,
+  "mafft_mode": "auto",
+  "alignment_length": 2596,
+  "trimmed_length": 902,
+  "iqtree_model": "LG+G4",
+  "bootstrap": 100,
+  "bootstrap_type": "UFBoot",
+  "runtime_seconds": 10115,
+  "jcvi_cscore": 0.99,
+  "synteny_minspan": 30,
+  "figure_dpi": 600
+}
