@@ -1,0 +1,15 @@
+effector_id	sequence	species	type	pubmed_id	reference
+Bsp9	MASS...	Bemisia_tabaci	secreted	31753849	Xu et al. 2019 Nature Comms
+Bt56	MADS...	Bemisia_tabaci	secreted	31722158	Wang et al. 2019 Plant Cell
+Btp2	MAST...	Bemisia_tabaci	secreted	38224343	Chen et al. 2024 New Phytol
+NlSEF1	MAFT...	Nilaparvata_lugens	secreted	29223528	Ye et al. 2017 eLife
+NlMLP	MAKV...	Nilaparvata_lugens	secreted	35524736	Guo et al. 2022 Plant Comms
+Nl12	MVSM...	Nilaparvata_lugens	secreted	31468517	Rao et al. 2019 Mol Plant
+Mp1	MWSF...	Myzus_persicae	secreted	29925771	Rodriguez et al. 2018 PNAS
+Mp10	MAGS...	Myzus_persicae	secreted	29318788	Thorpe et al. 2018 Insect Biochem
+Mp55	MAST...	Myzus_persicae	secreted	37707335	Wang et al. 2023 New Phytol
+CO02	MNYF...	Acyrthosiphon_pisum	secreted	19652531	Carolan et al. 2009 Insect Mol Biol
+CO06	MDKV...	Acyrthosiphon_pisum	secreted	21159041	Carolan et al. 2011 J Proteome Res
+DcP11	MVKT...	Diaphorina_citri	secreted	36583887	Killiny et al. 2023 Insect Sci
+HhEF1	MALF...	Halyomorpha_halys	secreted	35289771	Serteyn et al. 2022 J Insect Physiol
+AlEF1	MASK...	Apolygus_lucorum	secreted	33505131	Yang et al. 2021 Insect Sci

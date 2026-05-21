@@ -1,0 +1,66 @@
+species	scientific_name	group	priority	accession	protein_available
+Adelges_cooleyi	Adelges cooleyi	adelgid	P1	GCF_023614345.1	yes
+Adelges_tsugae	Adelges tsugae	adelgid	P1	GCA_045999825.2	no
+Acyrthosiphon_pisum	Acyrthosiphon pisum	aphid	P0	GCF_005508785.2	yes
+Acyrthosiphon_pisum_JIC	Acyrthosiphon pisum JIC	aphid	unknown		yes
+Aphis_craccivora	Aphis craccivora	aphid	P1	GCA_009835225.1	yes
+Aphis_fabae	Aphis fabae	aphid	unknown		yes
+Aphis_glycines	Aphis glycines	aphid	P1	GCA_046127445.1	no
+Aphis_gossypii	Aphis gossypii	aphid	P0	GCF_020184175.1	yes
+Aphis_rumicis	Aphis rumicis	aphid	unknown		yes
+Aphis_thalictri	Aphis thalictri	aphid	unknown		yes
+Aulacorthum_solani	Aulacorthum solani	aphid	P1	GCA_008528875.1	no
+Brachycaudus_helichrysi	Brachycaudus helichrysi	aphid	unknown		yes
+Brachycaudus_klugkisti	Brachycaudus klugkisti	aphid	unknown		yes
+Cinara_cedri	Cinara cedri	aphid	unknown		yes
+Diuraphis_noxia	Diuraphis noxia	aphid	P1	GCF_001186385.1	yes
+Drepanosiphum_platanoidis	Drepanosiphum platanoidis	aphid	unknown		yes
+Eriosoma_laniyerum	Eriosoma laniyerum	aphid	unknown		yes
+Hamadryas_cornu	Hamadryas cornu	aphid	unknown		yes
+Macrosiphum_euphorbiae	Macrosiphum euphorbiae	aphid	unknown		yes
+Melanaphis_sacchari	Melanaphis sacchari	aphid	P1	GCF_002803265.2	yes
+Metopolophium_dirhodum	Metopolophium dirhodum	aphid	P1	GCF_019925205.1	yes
+Myzus_cerasi	Myzus cerasi	aphid	unknown		yes
+Myzus_persicae	Myzus persicae	aphid	P0	GCA_029232275.1	yes
+Myzus_varians	Myzus varians	aphid	unknown		yes
+Nasonovia_ribisnigri	Nasonovia ribisnigri	aphid	unknown		yes
+Neotoxoptera_formosana	Neotoxoptera formosana	aphid	unknown		yes
+Pentalonia_nigronervosa	Pentalonia nigronervosa	aphid	unknown		yes
+Phyllaphis_fagi	Phyllaphis fagi	aphid	P2	GCA_982551555.1	no
+Pseudoregma_acericola	Pseudoregma acericola	aphid	unknown		yes
+Rhopalosiphum_maidis	Rhopalosiphum maidis	aphid	P1	GCF_003676215.2	yes
+Rhopalosiphum_padi	Rhopalosiphum padi	aphid	P0	GCF_020882245.1	yes
+Schizaphis_graminum	Schizaphis graminum	aphid	P1	GCA_053477495.1	no
+Sitobion_avenae	Sitobion avenae	aphid	P0	GCA_053477475.1	yes
+Stomaphis_chinensis	Stomaphis chinensis	aphid	unknown		yes
+Therioaphis_trifolii	Therioaphis trifolii	aphid	unknown		yes
+Tuberocephalus_akinire	Tuberocephalus akinire	aphid	unknown		yes
+Tuberolachnus_salignus	Tuberolachnus salignus	aphid	unknown		yes
+Cimex_lectularius	Cimex lectularius	bed_bug	P0	GCF_000648675.2	yes
+Magicicada_septendecula	Magicicada septendecula	cicada	P0	GCA_034769895.1	no
+Aphrophora_alni	Aphrophora alni	froghopper	P1	GCA_963513935.1	no
+Rhodnius_prolixus	Rhodnius prolixus	kissing_bug	P0	GCF_049639745.1	yes
+Triatoma_infestans	Triatoma infestans	kissing_bug	P1	GCA_965641795.1	no
+Lycorma_delicatula	Lycorma delicatula	lanternfly	P1	GCF_047948215.1	yes
+Homalodisca_vitripennis	Homalodisca vitripennis	leafhopper	P0	GCF_021130785.1	yes
+Macrosteles_quadrilineatus	Macrosteles quadrilineatus	leafhopper	P1	GCF_028750875.1	yes
+Planococcus_citri	Planococcus citri	mealybug	P1	GCF_950023065.1	yes
+Adelphocoris_suturalis	Adelphocoris suturalis	mirid_bug	P1	GCA_030762985.1	no
+Apolygus_lucorum	Apolygus lucorum	mirid_bug	P1	GCA_009739505.2	yes
+Apis_mellifera	Apis mellifera	outgroup_hym	P0	GCF_003254395.2	yes
+Pediculus_humanus	Pediculus humanus	outgroup_psocodea	P0	GCF_000006295.1	yes
+Frankliniella_occidentalis	Frankliniella occidentalis	outgroup_thrips	P0	GCF_000697945.3	yes
+Thrips_palmi	Thrips palmi	outgroup_thrips	P0	GCF_012932325.1	yes
+Daktulosphaira_vitifoliae	Daktulosphaira vitifoliae	phylloxera	P0	GCF_025091365.1	yes
+Laodelphax_striatellus	Laodelphax striatellus	planthopper	P2	GCA_017141395.1	no
+Nilaparvata_lugens	Nilaparvata lugens	planthopper	P0	GCF_014356525.2	yes
+Sogatella_furcifera	Sogatella furcifera	planthopper	P2	GCA_017141385.1	no
+Orius_laevigatus	Orius laevigatus	predatory_bug	P1	GCA_018703685.1	no
+Diaphorina_citri	Diaphorina citri	psyllid	P0	GCF_000475195.1	yes
+Arma_chinensis	Arma chinensis	stink_bug	P2	GCA_040285775.1	no
+Halyomorpha_halys	Halyomorpha halys	stink_bug	P0	GCF_000696795.3	yes
+Aquarius_paludum	Aquarius paludum	water_strider	P2	GCA_052327185.1	no
+Gerris_buenoi	Gerris buenoi	water_strider	P1	GCA_001010745.2	no
+Bemisia_tabaci_MEAM1	Bemisia tabaci MEAM1	whitefly	P0	GCF_918797505.1	yes
+Bemisia_tabaci_MED	Bemisia tabaci MED	whitefly	P0	GCA_903994095.1	no
+Trialeurodes_vaporariorum	Trialeurodes vaporariorum	whitefly	P0	GCA_011764245.1	no
